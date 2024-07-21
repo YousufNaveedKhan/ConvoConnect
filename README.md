@@ -49,15 +49,15 @@ Future updates for ConvoConnect will include:
 - **Group Chat**: Creation and participation in group conversations.
 - **Real-Time Notifications**: Instant alerts for new messages and other events.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
 ## Developers
 
 - [Muneeb Hassan Siddiqui](https://github.com/MuneebHassanSiddiqui/)
 - [Yousuf Naveed Khan](https://github.com/YousufNaveedKhan/)
  
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 - Special thanks to [Syed Muhammad Arsalan Shah](https://github.com/SyedMuhammadArsalanShah/).

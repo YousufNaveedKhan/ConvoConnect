@@ -63,7 +63,6 @@ Future updates for ConvoConnect will include:
 ### Notes:
 
 - Adjust paths and specifics based on your actual repository structure and preferences.
-- Ensure that the `LICENSE` file in your repository contains the correct licensing information.
 - Customize installation instructions based on your database and environment setup.
 
 This README serves as a developer guide and setup instructions for ConvoConnect, detailing installation steps, project structure, current features, future development plans, and how others can contribute to the project.
